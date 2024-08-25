@@ -9,11 +9,13 @@ Usage
 Fill Out the Form: Users can enter their name, email, subject, and message into the contact form fields.
 Submit the Form: By clicking the submit button, the form data is sent via EmailJS to the configured email address.
 Receive Confirmation: After submission, users are presented with a confirmation message indicating the success of their submission.
+
 Technologies Used
 
 ReactJS: A library for building user interfaces.
 EmailJS: A service that allows sending emails directly from the client side using JavaScript.
 CSS: For styling the contact form and user interface.
+
 Learning Objectives
 
 Integrate EmailJS into a React application to send emails from the client side.
