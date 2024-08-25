@@ -6,7 +6,7 @@ This project is a Contact Form web application that uses EmailJS to send emails 
 
 Usage
 
-Fill Out the Form: Users can enter their name, email, subject, and message into the contact form fields.
+Fill Out the Form: Users can enter their name, email, and message into the contact form fields.
 Submit the Form: By clicking the submit button, the form data is sent via EmailJS to the configured email address.
 Receive Confirmation: After submission, users are presented with a confirmation message indicating the success of their submission.
 
